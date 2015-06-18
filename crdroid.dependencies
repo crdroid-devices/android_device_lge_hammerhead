@@ -1,14 +1,20 @@
 [
  {
-   "repository": "proprietary_vendor_lge",
-   "target_path": "vendor/lge"
+   "remote": "github",
+   "repository": "crdroidandroid/proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "5.1.1"
  },
  {
-   "repository": "android_kernel_lge_hammerhead",
-   "target_path": "kernel/lge/hammerhead"
+   "remote": "github",
+   "repository": "crdroidandroid/android_kernel_lge_hammerhead",
+   "target_path": "kernel/lge/hammerhead",
+   "revision": "5.1.1"
  },
  {
-   "repository": "android_device_qcom_common",
-   "target_path": "device/qcom/common"
+   "remote": "github",
+   "repository": "crdroidandroid/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "revision": "5.1.1"
  }
 ]
