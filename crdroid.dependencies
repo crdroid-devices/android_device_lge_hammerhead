@@ -1,14 +1,20 @@
 [
  {
-   "repository": "proprietary_vendor_lge",
-   "target_path": "vendor/lge"
- },
- {
+   "remote": "crd",
    "repository": "android_kernel_lge_hammerhead",
-   "target_path": "kernel/lge/hammerhead"
+   "target_path": "kernel/lge/hammerhead",
+   "revision": "5.1.1"
  },
  {
+   "remote": "CyanogenMod",
    "repository": "android_device_qcom_common",
-   "target_path": "device/qcom/common"
+   "target_path": "device/qcom/common",
+   "revision": "cm-12.1"
+ },
+ {
+   "remote": "tm",
+   "repository": "proprietary_vendor_samsung",
+   "target_path": "vendor/samsung",
+   "revision": "cm-12.1"
  }
 ]
