@@ -1,0 +1,14 @@
+[
+ {
+   "remote": "crd",
+   "repository": "android_kernel_lge_hammerhead",
+   "target_path": "kernel/lge/hammerhead",
+   "revision": "6.0"
+ },
+ {
+   "remote": "tm",
+   "repository": "proprietary_vendor_lge",
+   "target_path": "vendor/lge",
+   "revision": "cm-13.0"
+ }
+]
